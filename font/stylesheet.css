@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'sansB';
+    src: url('NotoSans-Bold.eot');
+    src: url('NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSans-Bold.woff2') format('woff2'),
+        url('NotoSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'sans';
+    src: url('NotoSans.eot');
+    src: url('NotoSans.eot?#iefix') format('embedded-opentype'),
+        url('NotoSans.woff2') format('woff2'),
+        url('NotoSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
